@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Inesh</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate Developer from Sri Lanka</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ineshs0154&label=Profile%20views&color=0e75b6&style=flat" alt="ineshs0154" />
