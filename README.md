@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔭%20Working%20on-AnyWear-0e75b6?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔭%20Working%20on%20Project-AnyWear-0e75b6?style=flat-square" />
   <img src="https://img.shields.io/badge/🌱%20Learning-MongoDB%20%26%20AWS-2ea44f?style=flat-square" />
-  <img src="https://img.shields.io/badge/👯%20Collaborating%20on-Mudal-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/👯%20Collaborating%20on%20Project-Mudal-orange?style=flat-square" />
 </p>
 
 ---
